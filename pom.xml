@@ -145,13 +145,6 @@
 			</plugin>
 			
 </plugins>
-<servers>
-			<server>
-				<id>nexus</id>
-				<username>admin/username>
-				<password>achille1234</password>
-			</server>
-		</servers>        
 	</build>
 	
 	
